@@ -27,7 +27,7 @@ This Account Management System enables user-related functionalities, including:
 
 The goal of this system is to handle user authentication and management seamlessly.
 
-> ⚠️ **Note:** These routes were developed for the **Maseer Project**. You can view its repository [here](https://github.com/NuhaMakki/MASEER_Traffic_Violation_Detection_System).
+> ⚡ **Note:** These routes were developed for the **Maseer Project**. You can view its repository [here](https://github.com/NuhaMakki/MASEER_Traffic_Violation_Detection_System).
 
 <br>
 <a name="installation"></a>
