@@ -15,10 +15,7 @@ app.include_router(deleteAccount.router)
 app.include_router(sendEmail.router)
 app.include_router(PasswordRecover.router)
 app.include_router(updatePassword.router)
-app.include_router(report.router)
-app.include_router(historyList.router)
-app.include_router(deleteOneReport.router)
-app.include_router(uploadVideo.router)
+
 
 
 
