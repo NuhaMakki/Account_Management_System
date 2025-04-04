@@ -3,6 +3,7 @@
 This repository contains the implementation of an account creation and management system. It includes FastAPI routers that handle user signup, login, password recovery, account activation, deletion, and user data updates.
 
 <br>
+
 ## 📖 Table of Contents
 
 - 📌 [Project Overview](#project-overview)
@@ -26,7 +27,7 @@ This Account Management System enables user-related functionalities, including:
 
 The goal of this system is to handle user authentication and management seamlessly.
 
-> **Note:** These routes were developed for the **Maseer Project**. You can view its repository [here](https://github.com/NuhaMakki/MASEER_Traffic_Violation_Detection_System).
+> ⚠️ **Note:** These routes were developed for the **Maseer Project**. You can view its repository [here](https://github.com/NuhaMakki/MASEER_Traffic_Violation_Detection_System).
 
 <br>
 <a name="installation"></a>
