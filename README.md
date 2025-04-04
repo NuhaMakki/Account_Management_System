@@ -2,6 +2,7 @@
 
 This repository contains the implementation of an account creation and management system. It includes FastAPI routers that handle user signup, login, password recovery, account activation, deletion, and user data updates.
 
+<br>
 ## 📖 Table of Contents
 
 - 📌 [Project Overview](#project-overview)
@@ -10,7 +11,9 @@ This repository contains the implementation of an account creation and managemen
 - 📂 [File Structure](#file-structure)
 - 📬 [Connect](#connect)
 
+<br>
 <a name="project-overview"></a>
+
 ## 📌 Project Overview
 
 This Account Management System enables user-related functionalities, including:
@@ -27,6 +30,7 @@ The goal of this system is to handle user authentication and management seamless
 
 <br>
 <a name="installation"></a>
+
 ## ⚙️ Installation
 
 Follow these steps to set up and run this project:
@@ -65,6 +69,7 @@ This will start the FastAPI server, and you can access the API at `http://127.0.
 
 <br>
 <a name="technologies-used"></a>
+
 ## 🛠️ Technologies Used
 
 - 🐍 **Python**, ⚡ **FastAPI** – Backend & API  
@@ -72,6 +77,7 @@ This will start the FastAPI server, and you can access the API at `http://127.0.
 
 <br>
 <a name="file-structure"></a>
+
 ## 📂 File Structure
 
 - **`main.py`**: FastAPI app entry point
@@ -91,6 +97,7 @@ This will start the FastAPI server, and you can access the API at `http://127.0.
   
 <br>
 <a name="connect"></a>
+
 ## 📬 Connect
 
 If you have any questions or suggestions, feel free to connect!
